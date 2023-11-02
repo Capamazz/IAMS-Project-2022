@@ -4,7 +4,5 @@ The following repository contains the report and the functions developed for our
 The project was made by:
 
 Miccoli Francesco
-
 Mazzotti Luca
-
 Juvara Matteo
